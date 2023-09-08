@@ -1,0 +1,12 @@
+.add {
+    cursor: pointer;
+}
+.list {
+    background: rgb(200, 206, 203);
+    padding: 10px;
+}
+.list button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
